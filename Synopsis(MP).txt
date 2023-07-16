@@ -1,0 +1,12 @@
+Introducion:
+
+Calories burnt Prediction model is a broad idea of predicting calories based on a person's gender,
+age,height,weight,duration of exercise,heart-rate and body temperature.
+The practial application of our model is specified in the name itself, widely useful for calorie tracking
+by fitness enthusiasts.
+With increasing disease spread and obesity problems our model is the simplest,most efficient way to
+monitor health and weight of an individual.
+It takes as input a person's gender,age,height,weight,duration of exercise,heart-rate and body temperature 
+and based on this input the model predicts the person's calories burnt.
+We have done this model using XGB Regressor and python language.Python has many built in modules to 
+implement data processing and visualisation
